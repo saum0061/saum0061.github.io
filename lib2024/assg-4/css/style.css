@@ -1,0 +1,71 @@
+.site-header {
+	background: #A3EBB1;
+}
+.logo {
+	width:120px;
+	padding: 10px;
+	box-sizing: border-box;
+	float: left;
+	background: #A3EBB1;
+}
+
+.page-title {
+	width: calc(100% -120px);
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.desktop-nav li {
+	
+	width: 8%;
+	padding: 10px;
+	float: left;
+	background: #A3EBB1;
+}
+
+
+.desktop-nav li:first-child {
+	border-radius: 10px 0 0 10px;
+}
+
+
+.desktop-nav li:last-child {
+	border-radius: 0 10px 10px 0;
+}
+
+.main-nav a {
+	display: block;
+	box-sizing: border-box;
+	padding: 10px;
+	border-left: 2px solid #444;
+	background: #68BBE3;
+}
+
+.site-content {
+	float: left;
+	width: 60%;
+}
+
+
+.site-sidebar {
+	float: right;
+	width: 30%;
+	box-sizing: border-box;
+	clear: none;
+}
+
+.site-footer {
+	background: #A3EBB1;
+}
+
+.facebook {
+	float: right;
+}
+
+.youtube {
+	float: right;
+}
+
+.twitter {
+	float: right;
+}

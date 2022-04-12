@@ -1,0 +1,4 @@
+@keyframes rotate-me {
+  transform: rotate(1800deg);
+	animation-duration: 0.5s
+}

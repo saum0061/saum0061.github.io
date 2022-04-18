@@ -1,0 +1,117 @@
+h1 {
+	color: #72a9ae;
+	font-family: 'Bebas Neue', cursive;
+}
+
+h2 {
+	color: #72a9ae;
+}
+
+nav {
+	background-color: #72a9ae;
+	padding: 12px;
+}
+
+#nlink {
+	margin-left: 50px;
+	width: 150px;
+	height: 100px;
+	margin-bottom: 20px;
+	background: #72a9ae;
+}
+
+#nlink:hover {
+	width: 200px;
+	background: #FFEB3B;
+}
+
+a {
+	text-decoration: none;
+}
+
+main {
+  background: url("/webb.png");
+}
+
+
+#myDiv {
+  display: none;
+  text-align: center;
+}
+
+#mtext {
+	font-family: 'Raleway', sans-serif;
+}
+
+#mpic {
+	float: right;
+}
+
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th {
+	color: #72a9ae;
+}
+
+td, th {
+	margin: auto;
+	border: 2px solid #000000;
+	padding: 12px;
+}
+
+tr:nth-child(even) {
+	background-color: #dddddd;
+}
+
+#name, #email {
+	margin-left: 50px;
+	margin-bottom: 5px;
+}
+
+#addr {
+	margin-left: 36px;
+	margin-bottom: 5px;
+}
+
+#city {
+	margin-left: 61px;
+	margin-bottom: 5px;
+}
+
+select {
+	margin-left: 29px;
+	margin-bottom: 5px;
+}
+
+#post {
+	margin-left: 15px;
+	margin-bottom: 5px;
+}
+
+#sub { 
+	margin-left: 211px;
+}
+
+#foot {
+	Backgroud-color:#72a9ae;
+	width: 100%;
+}
+
+#qlinks {
+	Float: left;
+	padding: 25px;
+}
+
+#follow {
+	text-align: center;
+	padding: 25px;
+}
+
+#footadd {
+	float: right;
+	padding: 25px;
+}
